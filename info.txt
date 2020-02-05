@@ -1,0 +1,8 @@
+*) php artisan make:auth
+
+*) php artisan route:list
+
+=============================
+MiddleWare
+=============================
+php artisan make:middleware Admin
